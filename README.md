@@ -1,4 +1,4 @@
 # electron-react-js-app
 a todo desktop app 
-use:-
+# use:-
 npm install && npm run dev
